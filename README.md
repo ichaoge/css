@@ -244,7 +244,6 @@ Use `0` instead of `none` to specify that a style has no border.
       background: green;
       font-weight: bold;
       @include transition(background 0.5s ease);
-
       .icon {
         margin-right: 10px;
       }
